@@ -1,0 +1,321 @@
+[ {
+  "uid" : "2cf7ee74ed5e141b",
+  "name" : "TC003-存在多级小标题时自动生成层级目录",
+  "time" : {
+    "start" : 1784186438810,
+    "stop" : 1784186438829,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9e9e294c6eee054",
+  "name" : "TC025-页面刷新词条内容不丢失错乱",
+  "time" : {
+    "start" : 1784186577308,
+    "stop" : 1784186579427,
+    "duration" : 2119
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "57ee8073b58644bc",
+  "name" : "TC010-正文超链接打开方式符合页面设计规范",
+  "time" : {
+    "start" : 1784186468666,
+    "stop" : 1784186474754,
+    "duration" : 6088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46986e04c90aef2e",
+  "name" : "点击顶部「创建词条」跳转词条编辑入驻引导页",
+  "time" : {
+    "start" : 1784186603113,
+    "stop" : 1784186605311,
+    "duration" : 2198
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d1244aad9a705c21",
+  "name" : "TC027-浏览器窗口缩放页面自适应排版",
+  "time" : {
+    "start" : 1784186582820,
+    "stop" : 1784186585257,
+    "duration" : 2437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ac09fa8c716a972",
+  "name" : "TC012-参考资料外部网址链接可正常访问",
+  "time" : {
+    "start" : 1784186513801,
+    "stop" : 1784186519841,
+    "duration" : 6040
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9024cb65a5510018",
+  "name" : "TC020-词条内嵌数据表格完整渲染",
+  "time" : {
+    "start" : 1784186548044,
+    "stop" : 1784186554086,
+    "duration" : 6042
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7325e993b03f9406",
+  "name" : "TC011-参考资料条目序号顺序展示无错乱",
+  "time" : {
+    "start" : 1784186506105,
+    "stop" : 1784186512235,
+    "duration" : 6130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2882d4b438ecd99",
+  "name" : "TC002-词条概述段落排版正常无文字重叠截断",
+  "time" : {
+    "start" : 1784186436111,
+    "stop" : 1784186436133,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "36b98ee30a5819cf",
+  "name" : "TC004-点击目录条目页面自动跳转对应正文位置",
+  "time" : {
+    "start" : 1784186441079,
+    "stop" : 1784186442124,
+    "duration" : 1045
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "78aeac290db8d8d2",
+  "name" : "TC030-页面底部版权声明完整无截断",
+  "time" : {
+    "start" : 1784186595317,
+    "stop" : 1784186601365,
+    "duration" : 6048
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d53021856a378aa8",
+  "name" : "TC007-多义词条标签切换加载不同正文内容",
+  "time" : {
+    "start" : 1784186450392,
+    "stop" : 1784186451462,
+    "duration" : 1070
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c4974f2b09e7a559",
+  "name" : "TC005-目录功能区域正常展示",
+  "time" : {
+    "start" : 1784186444693,
+    "stop" : 1784186444710,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5023c67996fdb83a",
+  "name" : "TC024-浏览器前进后退词条页面缓存正常",
+  "time" : {
+    "start" : 1784186569591,
+    "stop" : 1784186574646,
+    "duration" : 5055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28d8e1be92f9fb54",
+  "name" : "TC001-正常词条页面词条标题完整无乱码展示",
+  "time" : {
+    "start" : 1784186433110,
+    "stop" : 1784186433137,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7c2ae7386e4310be",
+  "name" : "TC015-页面背景色与文字对比度正常",
+  "time" : {
+    "start" : 1784186532524,
+    "stop" : 1784186532528,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "dfc4ab20ef6592f9",
+  "name" : "TC009-正文内部词条超链接可点击跳转目标词条",
+  "time" : {
+    "start" : 1784186460854,
+    "stop" : 1784186466893,
+    "duration" : 6039
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f0b0379fe893b188",
+  "name" : "TC028-词条正文主展示区域正常渲染",
+  "time" : {
+    "start" : 1784186590488,
+    "stop" : 1784186590503,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9cb0164084d8e2d",
+  "name" : "TC019-滚动页面后可快速返回页面头部",
+  "time" : {
+    "start" : 1784186545406,
+    "stop" : 1784186546432,
+    "duration" : 1026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "213e43bd7864f6ed",
+  "name" : "TC008-词条正文内嵌图片正常加载无裂图",
+  "time" : {
+    "start" : 1784186453190,
+    "stop" : 1784186459237,
+    "duration" : 6047
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2b456fef9ad0e26c",
+  "name" : "TC029-页面无异常脚本错误",
+  "time" : {
+    "start" : 1784186592209,
+    "stop" : 1784186592213,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f2877dfb58ada6b2",
+  "name" : "TC017-历史版本按钮点击可跳转词条版本记录页面",
+  "time" : {
+    "start" : 1784186536706,
+    "stop" : 1784186538757,
+    "duration" : 2051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f95a60e7bb3b9bc2",
+  "name" : "未登录点击登录按钮弹出登录弹窗",
+  "time" : {
+    "start" : 1784186601696,
+    "stop" : 1784186602915,
+    "duration" : 1219
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "caf188f8f57b18fe",
+  "name" : "TC014-页面文字支持浏览器缩放功能",
+  "time" : {
+    "start" : 1784186529184,
+    "stop" : 1784186529942,
+    "duration" : 758
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "96db4dfa57c66108",
+  "name" : "TC021-词条特殊符号正常渲染无乱码",
+  "time" : {
+    "start" : 1784186556013,
+    "stop" : 1784186562058,
+    "duration" : 6045
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a07fd2777f610248",
+  "name" : "TC013-超长词条滚动底部自动分段加载正文",
+  "time" : {
+    "start" : 1784186521349,
+    "stop" : 1784186527422,
+    "duration" : 6073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ebef720c36ff6b4",
+  "name" : "TC016-词条编辑按钮正常显示",
+  "time" : {
+    "start" : 1784186535164,
+    "stop" : 1784186535173,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "235cf2eef7fe986",
+  "name" : "TC023-侧边相关词条点击跳转对应词条",
+  "time" : {
+    "start" : 1784186565385,
+    "stop" : 1784186567437,
+    "duration" : 2052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56ef0b1265db1678",
+  "name" : "TC022-侧边栏相关词条推荐列表正常加载",
+  "time" : {
+    "start" : 1784186563603,
+    "stop" : 1784186563612,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a536d8e26b833cd4",
+  "name" : "TC018-分享按钮正常展示可点击",
+  "time" : {
+    "start" : 1784186542090,
+    "stop" : 1784186542107,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "fb9bc60c3077387f",
+  "name" : "TC006-词条信息栏基础字段完整展示",
+  "time" : {
+    "start" : 1784186446406,
+    "stop" : 1784186446428,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a1974d656b2d1c3b",
+  "name" : "TC026-Chrome浏览器词条页面布局无错位变形",
+  "time" : {
+    "start" : 1784186581121,
+    "stop" : 1784186581158,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

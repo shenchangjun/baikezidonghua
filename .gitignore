@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*.pyc
+allure-report/
+allure-results/
+screenshots/
+screenshots_*/
+chromedriver.exe
+.claude/
+analysis.txt
+screenshot_git.py

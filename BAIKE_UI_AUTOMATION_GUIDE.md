@@ -477,9 +477,9 @@ allure open allure-report
 
 - **Behaviors 页**：按 feature → story 层级组织的测试用例树，每条用例状态与标题
 
-  ![78418289125](C:\Users\32804\AppData\Local\Temp\1784182891252.png)
+  ![78418289125](screenshots_allure/test_allure1.png)
 
-  ![78418292595](C:\Users\32804\AppData\Local\Temp\1784182925957.png)
+  ![78418292595](screenshots_allure/test_allure2.png)
 
 ---
 
